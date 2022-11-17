@@ -1,2 +1,10 @@
 hello world
+<<<<<<< Updated upstream
 raz change
+=======
+<<<<<<< HEAD
+itamar
+=======
+raz change
+>>>>>>> 0fdb07a2680db0560eda4c24f593c8160e1173b5
+>>>>>>> Stashed changes
